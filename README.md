@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # shopease
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# yora-ecommerce-app
+YORA is a Flutter-based fashion ecommerce app featuring men's and women's collections, product browsing, wishlist, and shopping cart functionality.
+>>>>>>> 476af3024aec73d830dd0fa186652aba179319dc
