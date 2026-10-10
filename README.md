@@ -1,22 +1,67 @@
-<<<<<<< HEAD
-# shopease
+# 🛍️ YORA – Fashion Ecommerce App
 
-A new Flutter project.
+YORA is a fashion ecommerce application built using Flutter and Dart. It offers a simple shopping experience with product collections, wishlist, and cart functionality.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 🏠 Home screen with trending products
+- 👗 Women's fashion collection
+- 👔 Men's clothing, shoes, watches, and accessories
+- ❤️ Add products to wishlist
+- 🛒 Shopping cart functionality
+- 📦 Order history
+- 🖼️ Local product images
+- 🎨 Clean and user-friendly interface
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Provider for state management
+- Git and GitHub
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# yora-ecommerce-app
-YORA is a Flutter-based fashion ecommerce app featuring men's and women's collections, product browsing, wishlist, and shopping cart functionality.
->>>>>>> 476af3024aec73d830dd0fa186652aba179319dc
+## 📁 Project Structure
+
+```text
+lib/
+├── models/
+├── providers/
+├── screens/
+├── services/
+├── theme/
+├── widgets/
+└── main.dart
+
+assets/
+├── men/
+└── products/
+```
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Install Flutter SDK and configure an emulator or connect an Android device.
+
+### Run locally
+
+```bash
+git clone https://github.com/yaminikrishnamaneni4-hash/yora-ecommerce-app.git
+cd yora-ecommerce-app
+flutter pub get
+flutter run
+```
+
+## 🎯 Project Objective
+
+To build a fashion shopping application while learning Flutter UI development, state management, reusable components, and version control.
+
+## 👩‍💻 Developer
+
+**Yamini Krishnamaneni**
+
+GitHub: [yaminikrishnamaneni4-hash](https://github.com/yaminikrishnamaneni4-hash)
+
+---
+
+⭐ Thanks for checking out YORA!
